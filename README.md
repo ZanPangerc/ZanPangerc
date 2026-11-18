@@ -16,7 +16,7 @@
 
 - 🔭 Trenutno delam na: Seminarski za podatkovne baze 
 - 🌱 Trenutno se učim: Javo in HTML z css
-- ⚡ Zanimivost o meni: Rad simrecam, ko ne delam za šolo.
+- ⚡ Zanimivost o meni: Rad simrecam🏎️, ko ne delam za šolo.
 - 📫 Kako me kontaktiraš: pangercz@gmail.com
 ---
 
