@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 - -->
 
-> 🎒 Sem srednješolec, ki rad programira, ustvarja projekte in se uči nove tehnologije.
+> 🎒 Sem srednješolec, rad programiram in se ukvarjam z športom.
 
 - 🔭 Trenutno delam na: Seminarski za podatkovne baze 
 - 🌱 Trenutno se učim: Javo in HTML z css
